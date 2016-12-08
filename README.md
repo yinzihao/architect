@@ -1,0 +1,2 @@
+# architect
+Core technology
